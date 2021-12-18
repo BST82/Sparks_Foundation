@@ -9,60 +9,11 @@ GRIP@ Sparks Foundation web development and designing internship Basic Banking w
 # Laptop Viwe
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Screenshot (30)](https://user-images.githubusercontent.com/86471670/146649297-1ec2a180-496d-4787-8fea-17c5f8ddf4b5.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Screenshot (31)](https://user-images.githubusercontent.com/86471670/146649306-7be60414-a7dc-40e3-ad1c-e6bee0f8efed.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -72,36 +23,7 @@ GRIP@ Sparks Foundation web development and designing internship Basic Banking w
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Screenshot (33)](https://user-images.githubusercontent.com/86471670/146649389-2ea8084a-da37-4da6-ba5c-af644b150e39.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
